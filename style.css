@@ -1,0 +1,189 @@
+.nav-item{
+	font-family: serif, times new roman, cambria, garamond;
+}
+
+.dropdown-item{
+font-family: serif, times new roman, cambria, garamond;	
+}
+                                                
+.navbar-brand{
+font-family: serif, times new roman, cambria, garamond;
+text-decoration: underline;
+}
+
+.col{
+	padding-top: 15px;
+}
+
+h1{
+	font-family: serif, times new roman, cambria, garamond;	
+    padding-top: 20px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.card-title{
+	font-family: serif, times new roman, cambria, garamond;
+	font-size: 30px;
+}
+
+.col-md-4{
+	padding-top: 22.5px;
+}
+
+.card-text{
+	font-family: serif, times new roman, cambria, garamond;
+}
+
+.dugme{
+	color: black;
+}
+
+.dugme:hover{
+	color: white;
+	text-decoration: none;
+}
+
+.col-md-4{
+	padding-top:30px;
+}
+
+.karte{
+	background-color: beige;
+	padding-top: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.onama{
+	height: 800px;
+	width: 600px;
+}
+
+ *{
+    box-sizing: border-box
+  }
+
+ .child{
+    font-family: serif, times new roman, cambria, garamond; 
+    font-size: 25px;
+ }
+
+ .parent{
+    display: flex;
+ }
+
+.tekst{
+	background-color: beige;
+	padding-left: 15px;
+}
+
+.naslov{
+	text-align: left;
+}
+
+.p1{
+	font-family: serif, times new roman, cambria, garamond; 
+}
+
+.enterijer{
+		height: 400px;
+	width: 400px;
+}
+
+.broj{
+	color: black;
+}
+
+.broj:hover{
+	color: darkred;
+	text-decoration: none;
+}
+
+.mapa{
+	padding-top: 20px;
+}
+
+.proizvodi{
+   background-color: none;
+      padding-top: 20px;
+   padding-left: 10px;
+   padding-right: 10px;
+}
+
+.div5{
+   padding-top: 30px;
+}
+
+form {
+  padding: 30px;
+  box-shadow: 0 0 10px black;
+  border-radius: 10px;
+}
+
+label {
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+  margin-bottom: 10px;
+}
+
+input[type="text"], input[type="email"], input[type="password"] {
+  width: 100%;
+  padding: 12px 20px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  border: 2px solid black;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: beige;
+}
+
+input[type="submit"] {
+  width: 100%;
+  background-color:black;
+  color: white;
+  padding: 14px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+input[type="submit"]:hover {
+  background-color: beige;
+  color: black;
+}
+
+.error-message {
+  color: rgb(165, 15, 15);
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+.photo-gallery{
+   color: beige;
+   background-color: white;
+}
+
+.photo-gallery .photos{
+   padding-bottom: 20px;
+}
+
+.photo-gallery .item{
+   padding-bottom: 30px;
+}
+
+.photo-gallery{
+   color: #313437;
+   background-color: white;
+}
+
+.photo-gallery .photos{
+   padding-bottom: 20px;
+}
+
+.photo-gallery .item{
+   padding-bottom: 30px;
+}
